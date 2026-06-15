@@ -32,7 +32,7 @@ whitelist           : []
 plugins             : []
 
 # Theme
-theme               : jekyll-theme-minimal
+#theme               : jekyll-theme-minimal
 
 # Conversion
 markdown            : kramdown
