@@ -1,5 +1,5 @@
 # GradieNTAG (Moduli space)
-This is the information page for SFU reading group about moduli space for graduate students.
+This is the information page for SFU reading group about moduli space for graduate students. *(Last updated: 2026 June 18)*
 
 - Time: TBD
 - Venue: TBD
@@ -23,8 +23,8 @@ The tentative meeting plan is below.
 If you have any question, please contact Karolyn So (wsa57 at sfu dot ca) or Chi Ki Ngai (ckn10 at sfu dot ca).
 
 
-| ------ | ------ | ------ | ------ |
 | Date | Content | Supplementary material | Person in charge |
 | ------ | ------ | ------ | ------ |
-| Week 1 | [Lecture 1](https://www.math.ru.nl/~vhoskins/M15_Lecture1.pdf): functor of points, moduli problems and moduli functors (TBD) |  | Karolyn |
-| Week 2 | [Lecture 2](https://www.math.ru.nl/~vhoskins/M15_Lecture1.pdf): fine and coarse moduli spaces, pathologies, constructing moduli spaces (TBD) |  | Chi Ki |
+| Week 1 | Introduction and scheme theory | TBD | Chi Ki |
+| Week 2 | Functor of points, moduli problems and moduli functors | Sections 2.1-2.2 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) | Karolyn |
+| Week 3 | Fine and coarse moduli spaces, pathologies, constructing moduli spaces | Sections 2.3-2.6 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) | TBD |
