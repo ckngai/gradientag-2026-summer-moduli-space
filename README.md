@@ -25,6 +25,6 @@ If you have any question, please contact Karolyn So (wsa57 at sfu dot ca) or Chi
 
 | Date | Content | Supplementary material | Person in charge |
 | ------ | ------ | ------ | ------ |
-| Jul 10 | Introduction and scheme theory | TBD | Chi Ki |
+| Jul 10 | Introduction and scheme theory | No reading needed beforehand | Chi Ki |
 | Jul 17 | Functor of points, moduli problems and moduli functors | Sections 2.1-2.2 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) | Karolyn |
 | Jul 24 | Fine and coarse moduli spaces, pathologies, constructing moduli spaces | Sections 2.3-2.6 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) | TBD |
