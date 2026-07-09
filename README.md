@@ -9,8 +9,8 @@ This is the information page for SFU reading group about moduli space for gradua
 
 We will mainly follow the lecture notes by Victoria Hoskins ([https://www.math.ru.nl/~vhoskins/moduli_and_GIT.html](https://www.math.ru.nl/~vhoskins/moduli_and_GIT.html)).
 Other supplementary materials you may find helpful:
-1. Dori Bejleri's Notes on Moduli spaces: [https://math.umd.edu/~dbejleri/teaching/math259xfa19/](https://math.umd.edu/~dbejleri/teaching/math259xfa19/) 
-2. Jarod alper's notes (Stacks and Moduli): [https://sites.math.washington.edu/~jarod/](https://sites.math.washington.edu/~jarod/)
+1. Dori Bejleri's Notes on Moduli spaces: (Seems more dense in information) [https://math.umd.edu/~dbejleri/teaching/math259xfa19/](https://math.umd.edu/~dbejleri/teaching/math259xfa19/) 
+2. Jarod alper's notes (Stacks and Moduli): (Very, very comprehensive) [https://sites.math.washington.edu/~jarod/moduli.pdf](https://sites.math.washington.edu/~jarod/moduli.pdf)
 
 Topics in these materials may be discussed on demand.
 
