@@ -1,5 +1,5 @@
 # GradieNTAG (Moduli space)
-This is the information page for SFU reading group about moduli space for graduate students. *(Last updated: 2026 July 19)*
+This is the information page for SFU reading group about moduli space for graduate students. *(Last updated: 2026 July 26)*
 
 - Time: **Every Friday, 12:30 to 2:30 pm**
 - Venue: **K9509**
@@ -27,7 +27,7 @@ If you have any question, please contact Karolyn So (wsa57 at sfu dot ca) or Chi
 | ------ | ------ | ------ | ------ | ------ |
 | Jul 10 | Introduction and scheme theory | No reading needed beforehand | [Notes](notes/01_Introduction_to_scheme_theory_(Chi_Ki).pdf) | Chi Ki |
 | Jul 17 | Functor of points, moduli problems and moduli functors | Sections 2.1-2.2 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) | No notes | Karolyn |
-| Jul 24 | Fine and coarse moduli spaces, pathologies, constructing moduli spaces | Sections 2.3-2.6 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) |  | Chi Ki |
+| Jul 24 | Fine and coarse moduli spaces, pathologies, constructing moduli spaces | Sections 2.3-2.6 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) | [Notes](notes/03_Fine,_coarse_moduli_space_&_constructions_(Chi_Ki).pdf) | Chi Ki |
 | Jul 31 | Algebraic groups and algebraic actions | Sections 3.1-3.3 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) (Up to Definition 3.16) |  | Pijush |
 | Aug 7 | Categorical quotients, good quotients and geometric quotients | Sections 3.3-3.5 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) (From Example 3.17) |  | Young |
 | Aug 14 | Hilbert's 14th problem I: unipotent and reductive groups | Sections 3.6-4.2 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) |  | TBD |
