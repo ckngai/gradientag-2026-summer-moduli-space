@@ -1,7 +1,7 @@
 # GradieNTAG (Moduli space)
 This is the information page for SFU reading group about moduli space for graduate students. *(Last updated: 2026 August 14)*
 
-- Time: **Every Friday, 12:30 to 2:30 pm (TBD in the fall term)**
+- Time: **TBD in the fall term**
 - Venue: **K9509**
 - Format: 1 hour of presentation (mandatory), followed by 1 hour of discussion and exercise (optional)
 - All participants are encouraged to present at least once.
