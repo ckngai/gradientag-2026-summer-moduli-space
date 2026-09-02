@@ -1,5 +1,5 @@
 # GradieNTAG (Moduli space)
-This is the information page for SFU reading group about moduli space for graduate students. *(Last updated: 2026 September 02)*
+This is the information page for SFU reading group about moduli space for graduate students. *(Last updated: 2026 September 02)* <!-- LAST_UPDATED -->
 
 - Time: **TBD in the fall term**
 - Venue: **K9509**
