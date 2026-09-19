@@ -1,8 +1,8 @@
 # GradieNTAG (Moduli space)
-This is the information page for SFU reading group about moduli space for graduate students. *(Last updated: 2026 September 02)* <!-- LAST_UPDATED -->
+This is the information page for SFU reading group about moduli space for graduate students. *(Last updated: 2026 September 18)* <!-- LAST_UPDATED -->
 
-- Time: **TBD in the fall term**
-- Venue: **K9509**
+- Time: **Every Thursday, 3:00 to 5:00pm**
+- Venue: **AQ4135 (ACW)**
 - Format: 1 hour of presentation (mandatory), followed by 1 hour of discussion and exercise (optional)
 - All participants are encouraged to present at least once.
 - Reading the material before meeting is strongly encouraged, even if you are not the presenter. This ensures most participants are on similar progress as the meetings continue. 
@@ -32,3 +32,4 @@ If you have any question, please contact Karolyn So (wsa57 at sfu dot ca) or Chi
 | Aug 7 | Categorical quotients, good quotients and geometric quotients | Sections 3.3-3.5 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) (From Example 3.17) | [Notes](notes/05_Quotients_(Young).pdf) | Young |
 | Aug 14 | Hilbert's 14th problem I: unipotent and reductive groups | Sections 3.6-4.2 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) | [Notes](notes/06_Hilbert’s_14th_Problem_Reductive_groups_(Karolyn).pdf) | Karolyn |
 | Break | Resume in mid-September | -- | -- | -- |
+| Sep 24 | Review on moduli spaces | Recommend reading previous materials |  | Pijush |
