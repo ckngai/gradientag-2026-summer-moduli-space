@@ -1,5 +1,5 @@
 # GradieNTAG (Moduli space)
-This is the information page for SFU reading group about moduli space for graduate students. *(Last updated: 2026 September 18)* <!-- LAST_UPDATED -->
+This is the information page for SFU reading group about moduli space for graduate students. *(Last updated: 2026 September 25)* <!-- LAST_UPDATED -->
 
 - Time: **Every Thursday, 3:00 to 5:00pm**
 - Venue: **AQ4135 (ACW)**
@@ -32,4 +32,8 @@ If you have any question, please contact Karolyn So (wsa57 at sfu dot ca) or Chi
 | Aug 7 | Categorical quotients, good quotients and geometric quotients | Sections 3.3-3.5 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) (From Example 3.17) | [Notes](notes/05_Quotients_(Young).pdf) | Young |
 | Aug 14 | Hilbert's 14th problem I: unipotent and reductive groups | Sections 3.6-4.2 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) | [Notes](notes/06_Hilbert’s_14th_Problem_Reductive_groups_(Karolyn).pdf) | Karolyn |
 | Break | Resume in mid-September | -- | -- | -- |
-| Sep 24 | Review on moduli spaces | Recommend reading previous materials |  | Pijush |
+| Sep 24 | Review on moduli spaces | Recommend reading previous materials | [Notes](notes/07_Review_(Pijush).pdf) | Pijush |
+| Oct 1 | Hilbert's 14th problem II: Weyl's unitary trick, Reynolds operators and Nagata's Theorem | Sections 4.2-4.5 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) (From Proposition 4.18 to Remark 4.28) |  | Young |
+| Oct 8 | The affine GIT quotient: it is a good quotient and restricts to a geometric quotient on the stable set | Sections 4.5-4.6 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) (From Lemma 4.29) |  | TBD |
+| Oct 15 | The projective GIT quotient: (semi)stability, S-equivalence and polystability | Sections 5.1-5.2 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) |  | TBD |
+| Oct 22 | Linearisations: the definition, semistability and GIT quotients | Sections 5.3-5.5 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) |  | TBD |
