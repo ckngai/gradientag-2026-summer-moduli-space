@@ -1,5 +1,5 @@
 # GradieNTAG (Moduli space)
-This is the information page for SFU reading group about moduli space for graduate students. *(Last updated: 2026 September 25)* <!-- LAST_UPDATED -->
+This is the information page for SFU reading group about moduli space for graduate students. *(Last updated: 2026 October 04)* <!-- LAST_UPDATED -->
 
 - Time: **Every Thursday, 3:00 to 5:00pm**
 - Venue: **AQ4135 (ACW)**
@@ -34,6 +34,7 @@ If you have any question, please contact Karolyn So (wsa57 at sfu dot ca) or Chi
 | Break | Resume in mid-September | -- | -- | -- |
 | Sep 24 | Review on moduli spaces | Recommend reading previous materials | [Notes](notes/07_Review_(Pijush).pdf) | Pijush |
 | Oct 1 | Hilbert's 14th problem II: Weyl's unitary trick, Reynolds operators and Nagata's Theorem | Sections 4.2-4.5 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) (From Proposition 4.18 to Remark 4.28) |  | Young |
-| Oct 8 | The affine GIT quotient: it is a good quotient and restricts to a geometric quotient on the stable set | Sections 4.5-4.6 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) (From Lemma 4.29) |  | TBD |
-| Oct 15 | The projective GIT quotient: (semi)stability, S-equivalence and polystability | Sections 5.1-5.2 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) |  | TBD |
-| Oct 22 | Linearisations: the definition, semistability and GIT quotients | Sections 5.3-5.5 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) |  | TBD |
+| Oct 8 | The affine GIT quotient: it is a good quotient and restricts to a geometric quotient on the stable set | Sections 4.5-4.6 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) (From Lemma 4.29) |  | Chi Ki |
+| Oct 15 | Exercise on calculating ring of invariants | [Exercise sheet 6](https://www.math.ru.nl/~vhoskins/M15_Sheet6.pdf) (Q1, Q3) from the main lecture notes series |  | Chi Ki |
+| Oct 22 | The projective GIT quotient: (semi)stability, S-equivalence and polystability | Sections 5.1-5.2 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) |  | Pijush |
+| Oct 29 | Linearisations: the definition, semistability and GIT quotients | Sections 5.3-5.5 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) |  | TBD |
