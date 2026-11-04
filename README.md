@@ -1,5 +1,5 @@
 # GradieNTAG (Moduli space)
-This is the information page for SFU reading group about moduli space for graduate students. *(Last updated: 2026 November 2)* <!-- LAST_UPDATED -->
+This is the information page for SFU reading group about moduli space for graduate students. *(Last updated: 2026 November 4)* <!-- LAST_UPDATED -->
 
 - Time: **Every Thursday, 3:00 to 5:00pm**
 - Venue: **AQ4135 (ACW)**
@@ -36,7 +36,7 @@ If you have any question, please contact Karolyn So (wsa57 at sfu dot ca) or Chi
 | Oct 1 | Hilbert's 14th problem II: Weyl's unitary trick, Reynolds operators and Nagata's Theorem | Sections 4.2-4.5 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) (From Proposition 4.18 to Remark 4.28) | No notes | Young |
 | Oct 8 | The affine GIT quotient: it is a good quotient and restricts to a geometric quotient on the stable set | Sections 4.5-4.6 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) (From Lemma 4.29) | [Notes](notes/09_Affine_GIT_Quotient_(Chi_Ki).pdf) (Up to 4.5) | Chi Ki |
 | Oct 15 | Stable points and Exercise on calculating ring of invariants | Section 4.6 of of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) and [Exercise sheet 6](https://www.math.ru.nl/~vhoskins/M15_Sheet6.pdf) (Q1, Q3) from the main lecture notes series | [Notes](notes/10_Stable_points_and_exercises_on_G-inv_rings_(Chi_Ki).pdf), [Demo Macaulay2 code](extra/inv_ring_test.m2) | Chi Ki |
-| Oct 22 | The projective GIT quotient: (semi)stability, S-equivalence and polystability | Sections 5.1-5.2 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) |  | Pijush |
+| Oct 22 | The projective GIT quotient: (semi)stability, S-equivalence and polystability | Sections 5.1-5.2 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) | [Notes](notes/11_Projective_GIT_(Pijush).pdf), [Demo Macaulay2 code](extra/week11_demo.m2) | Pijush |
 | Oct 29 | The Hilbert-Mumford criterion for (semi)stability I | Sections 6.1-6.2 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) | [Notes](notes/12_Hilbert-Mumford_criterion_(Chi_Ki).pdf) | Chi Ki |
 | Nov 5 | Exercises on the Hilbert-Mumford criterion for (semi)stability | [Exercise sheet 10](https://www.math.ru.nl/~vhoskins/M15_Sheet10.pdf) |  | Karolyn |
 | Nov 12 | Moduli of projective hypersurfaces I (General theory) | Sections 7.1-7.3 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) |  | TBD |
