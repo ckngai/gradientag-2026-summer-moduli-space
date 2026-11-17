@@ -1,5 +1,5 @@
 # GradieNTAG (Moduli space)
-This is the information page for SFU reading group about moduli space for graduate students. *(Last updated: 2026 November 8)* <!-- LAST_UPDATED -->
+This is the information page for SFU reading group about moduli space for graduate students. *(Last updated: 2026 November 16)* <!-- LAST_UPDATED -->
 
 - Time: **Every Thursday, 3:00 to 5:00pm**
 - Venue: **AQ4135 (ACW)**
@@ -39,7 +39,8 @@ If you have any question, please contact Karolyn So (wsa57 at sfu dot ca) or Chi
 | Oct 22 | The projective GIT quotient: (semi)stability, S-equivalence and polystability | Sections 5.1-5.2 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) | [Notes](notes/11_Projective_GIT_(Pijush).pdf), [Demo Macaulay2 code](extra/week11_demo.m2) | Pijush |
 | Oct 29 | The Hilbert-Mumford criterion for (semi)stability I | Sections 6.1-6.2 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) | [Notes](notes/12_Hilbert-Mumford_criterion_(Chi_Ki).pdf) | Chi Ki |
 | Nov 5 | Exercises on the Hilbert-Mumford criterion for (semi)stability | [Exercise sheet 10](https://www.math.ru.nl/~vhoskins/M15_Sheet10.pdf) | [Notes](notes/13_Exercise_on_Hilbert-Mumford_(Karolyn).pdf), [Demo Macaulay2 code](extra/week13_demo.m2) | Karolyn |
-| Nov 12 | Exercises on projective GIT and (semi)stable sets | [Exercise sheet 8](https://www.math.ru.nl/~vhoskins/M15_Sheet8.pdf), [Exercise sheet 9](https://www.math.ru.nl/~vhoskins/M15_Sheet9.pdf) |  | Pijush |
-| Nov 19 | Moduli of projective hypersurfaces I (General theory) | Sections 7.1-7.3 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) |  | TBD |
-| Nov 26 | Moduli of projective hypersurfaces II (Particular examples) | Sections 7.4-7.5 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) |  | TBD |
-| Dec 3 | Crash course on sheaf cohomology | Sections 8.1-8.3 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) |  | TBD |
+| Nov 12 | Exercises on projective GIT and (semi)stable sets | [Exercise sheet 8](https://www.math.ru.nl/~vhoskins/M15_Sheet8.pdf), [Exercise sheet 9](https://www.math.ru.nl/~vhoskins/M15_Sheet9.pdf) | [Notes](notes/14_Exercise_on_Projective_GIT_(Pijush).pdf) | Pijush |
+| Nov 19 | Moduli of projective hypersurfaces I (General theory) | Sections 7.1-7.3 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) |  | Peter |
+| Nov 26 | Moduli of projective hypersurfaces II (Particular examples) | Sections 7.4-7.5 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) |  | Chi Ki |
+| Break | Resume in mid-January | -- | -- | -- |
+| TBD | Crash course on sheaf cohomology | Sections 8.1-8.3 of [the main lecture notes](https://www.math.ru.nl/~vhoskins/M15_Lecture_notes.pdf) |  | TBD |
